@@ -1,8 +1,13 @@
 {
 	"author": "Matt Winfield",
+	"description": "Project to learn APIs and NPM",
+	"keywords": ["freecodecamp", "Learning", "APIs", "NPM"],
+	"license": "MIT",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
